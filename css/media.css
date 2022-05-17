@@ -1,0 +1,141 @@
+@media screen  and (min-width: 959px) and(max-width: 1115PX){
+
+}
+@media screen  and (min-width: 768px) and (max-width: 959px){
+.header h2{
+    font-size: 7rem;
+}
+.header p{
+    font-size: 2.75rem;
+}
+.container{
+    padding: 0 17px;
+}
+    /*SECTION 1*/
+.nav ul{
+    opacity: 0;
+}
+
+/*SECTION 1*/
+            /*SECTION 2*/
+.sec2-left{
+    width: 100%;
+    text-align: center;
+}
+
+.sec2-right{
+    width: 100%;
+}
+            /*SECTION 2*/
+/*SECTION 6*/
+.testimonial-card{
+    width: 100%;
+}
+/*SECTION 6*/
+            /*SECTION 7*/
+.input-st{
+    width: 100%;
+    margin: 0;
+    margin-top: 24px;
+}
+.sec7-cont >aside{
+    width: 33.33%;
+}
+.sec7-send-note{
+    width: 66.66%;
+}
+            /*SECTION 7*/
+/*FOOTER*/
+.footer-left{
+    float: none;
+}
+.footer-right{
+    float: none;
+}
+.footer-cont{
+    text-align: center;
+}
+/*FOOTER*/
+}
+@media screen  and (MAX-width: 768px){
+    .header h2{
+        font-size: 5.5rem;
+    }
+    .header p{
+        font-size: 2.2rem;
+    }
+    .header p::after{
+        bottom: 30;
+    }
+    .container{
+        padding: 0 17px;
+    }
+        /*SECTION 1*/
+    .nav ul{
+        opacity: 0;
+    }
+    
+    /*SECTION 1*/
+                /*SECTION 2*/
+    .sec2-left{
+        width: 100%;
+        text-align: center;
+    }
+    
+    .sec2-right{
+        width: 100%;
+    }
+    .sec2-item{
+        width: 50%;
+    }
+                /*SECTION 2*/
+    /*SECTION 3*/
+    .sec3-item{
+        width: 100%;
+    }
+    /*SECTION 3*/
+                /*SECTION 4*/
+.sec4-item-container{
+    width: 100%;
+}
+.sec4-skills-container{
+    width: 100%;
+}
+.sec4-skills-left{
+    padding: 0%;
+}
+.sec4-skills-right{
+    padding: 0%;
+}
+                /*Section 4*/
+    /*SECTION 6*/
+    .testimonial-card{
+        width: 100%;
+    }
+    /*SECTION 6*/
+                /*SECTION 7*/
+    .input-st{
+        width: 100%;
+        margin: 0;
+        margin-top: 24px;
+    }
+    .sec7-cont >aside{
+        width: 100%;
+        text-align: center;
+    }
+    .sec7-send-note{
+        width: 100%;
+    }
+                /*SECTION 7*/
+    /*FOOTER*/
+    .footer-left{
+        float: none;
+    }
+    .footer-right{
+        float: none;
+    }
+    .footer-cont{
+        text-align: center;
+    }
+    /*FOOTER*/
+}
